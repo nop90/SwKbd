@@ -12,11 +12,11 @@ The advantage of this module is that it's skinnable.
 Commands
 =====
 
-A: ends input
-B: delete a char (backspace)
-X: clear buffer
-Left and Right arrows: move cursor
-Touchpad: use the keyboard
+- A: ends input
+- B: delete a char (backspace)
+- X: clear buffer
+- Left and Right arrows: move cursor
+- Touchpad: use the keyboard
 
 Sources
 =====

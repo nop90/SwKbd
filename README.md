@@ -1,4 +1,4 @@
 SwKbd
 =====
 
-3DS Kustom Software Keyboard Module
+3DS Custom Software Keyboard Module
